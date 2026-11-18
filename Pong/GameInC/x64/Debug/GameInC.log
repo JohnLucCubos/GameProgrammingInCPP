@@ -1,0 +1,2 @@
+﻿C:\Users\johnl\Documents\ITP-380\SirenEngine\Pong\GameInC\Main.cpp(3,27): warning C4100: 'argv': unreferenced formal parameter
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Pong\GameInC\Main.cpp(3,14): warning C4100: 'argc': unreferenced formal parameter

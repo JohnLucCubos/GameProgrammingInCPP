@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "GameInC\\x64\\Debug\\Game.obj",
+            "outputs": [
+                "GameInC\\x64\\Debug\\Game.h.obj.dt.module.json",
+                "GameInC\\x64\\Debug\\Game.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

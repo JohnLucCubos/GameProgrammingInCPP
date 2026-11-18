@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\johnl\\documents\\itp-380\\sirenengine\\2d_template\\gameinc\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\johnl\\documents\\itp-380\\sirenengine\\2d_template\\gameinc\\game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

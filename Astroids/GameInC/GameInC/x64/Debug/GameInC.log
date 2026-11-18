@@ -1,0 +1,13 @@
+﻿C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(40,10): error C3646: 'mPosition': unknown override specifier
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(40,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(44,7): error C2039: 'vector': is not a member of 'std'
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(44,7): error C7568: argument list missing after assumed function template 'vector'
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(44,7): error C2062: type '<error>' unexpected
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(44,43): error C2238: unexpected token(s) preceding ';'
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Game.cpp(55,2): error C2660: 'IMG_Load': function does not take 0 arguments
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(40,10): error C3646: 'mPosition': unknown override specifier
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(40,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(44,7): error C2039: 'vector': is not a member of 'std'
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(44,7): error C7568: argument list missing after assumed function template 'vector'
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(44,7): error C2062: type '<error>' unexpected
+C:\Users\johnl\Documents\ITP-380\SirenEngine\Astroids\GameInC\Actor.h(44,43): error C2238: unexpected token(s) preceding ';'
